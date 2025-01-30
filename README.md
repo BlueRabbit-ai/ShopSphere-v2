@@ -79,7 +79,7 @@ Follow these steps to set up the e-commerce platform on your local machine:
 
 ```bash
 git clone https://github.com/BlueRabbit-ai/ShopSphere-v2.git
-cd e-commerce-platform
+cd ShopSphere-v2
 ```
 
 ### Step 2: Install Dependencies
